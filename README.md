@@ -164,10 +164,3 @@ You should be able to make requests to localhost:5106 for the Web project, and l
 
 You can also run the applications by using the instructions located in their `Dockerfile` file in the root of each project. Again, run these commands from the root of the solution (where the .sln file is located).
 
-## Community Extensions
-
-We have some great contributions from the community, and while these aren't maintained by Microsoft we still want to highlight them.
-
-[eShopOnWeb VB.NET](https://github.com/VBAndCs/eShopOnWeb_VB.NET) by Mohammad Hamdy Ghanem
-
-[FShopOnWeb](https://github.com/NitroDevs/FShopOnWeb) An F# take on eShopOnWeb by Sean G. Wright and Kyle McMaster
